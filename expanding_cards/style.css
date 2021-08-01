@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+}
+
+h1{
+    font-size: 5rem;
+    background: linear-gradient(45deg, #dba032, #af4261);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+    -webkit-text-fill-color: transparent;
+    /* display: inline-block; */
+    text-align: center;
+  }
