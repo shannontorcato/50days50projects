@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-.main-head {
+/* .main-head {
     grid-area: header;
   }
   .content {
@@ -33,7 +33,7 @@
       "sidebar"
       "ad"
       "footer";
-  }
+  } */
 
 body {
   font-family: 'Muli', sans-serif;
