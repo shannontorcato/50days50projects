@@ -26,7 +26,17 @@ body {
     font-size: 60px;
 }
 
-.discover{
+#discover p{
   font-size: 60px;
-  color: aliceblue;
+  color: rgb(255, 255, 255);
+  animation-name: slidein;
+  animation-delay: 4s;
+  position: absolute;
+  top: 290px;
+  left: 650px;
+}
+
+@keyframes slidein{
+  0% { color: red; }
+  100% {color: rgb(173, 57, 173);}
 }
