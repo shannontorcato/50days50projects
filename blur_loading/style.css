@@ -13,7 +13,7 @@ body {
   }
   
 #bg {
-    background: url('img/geralt.png') no-repeat center center/cover;
+    background: url('img/urban_city.jpg') no-repeat center center/cover;
     position: absolute;
     width: calc(100vw + 0px);
     height: calc(100vh + 0px);
@@ -24,4 +24,9 @@ body {
 #loading {
     color: rgb(255, 255, 255);
     font-size: 60px;
+}
+
+.discover{
+  font-size: 60px;
+  color: aliceblue;
 }
